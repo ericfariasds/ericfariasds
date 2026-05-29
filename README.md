@@ -7,7 +7,7 @@
 
 ---
 
-## Sobre mim
+## Sobre mim 🇧🇷 Português | [🇺🇸 English](./README.en.md)
 
 Estudante de programação com foco em Back-end, construindo soluções eficientes com Python, Node.js e bancos de dados relacionais. Tenho experiência prática em análise de dados com Pandas e Plotly, e na criação de APIs RESTful com TypeScript e PostgreSQL.
 
