@@ -9,7 +9,7 @@
 
 ## About me[🇧🇷 Português](./README.md) | 🇺🇸 English
 
-Programming student focused on Back-end, building efficient solutions with Python, Node.js, and relational databases. I have hands-on experience in data analysis with Pandas and Plotly, and in building RESTful APIs with TypeScript and PostgreSQL.
+Programming student focused on Data analytics, building efficient solutions with Python, Node.js, and relational databases. I have hands-on experience in data analysis with Pandas and Plotly, and in building RESTful APIs with TypeScript and PostgreSQL.
 
 Currently deepening my knowledge in data analysis, advanced SQL, and scalable system development.
 
