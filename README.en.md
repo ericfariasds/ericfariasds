@@ -1,5 +1,5 @@
 <h1 align="center">Eric Farias</h1>
-<p align="center">Programming student focused on Back-end and Data Analysis · Rio de Janeiro, BR</p>
+<p align="center">Programming student focused on Data Analysis · Rio de Janeiro, BR</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ericfariasdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_ericfarias_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
