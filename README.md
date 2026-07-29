@@ -33,6 +33,10 @@ Atualmente aprofundando conhecimentos em análise de dados, SQL avançado e dese
 
 ## Projetos em destaque
 
+### 👨‍💻 [portfolio](https://github.com/ericfariasds/portfolio)
+Meu portfólio pessoal desenvolvido para documentar minha trajetória e centralizar meus projetos de análise de dados. Interface responsiva, dark mode e design focado na identidade visual.
+`HTML` · `tailwindcss`
+
 ### 📊 [projetos-fnma](https://github.com/ericfariasds/projetos-fnma)
 Análise exploratória de ~1.495 projetos ambientais do FNMA (1990–2024). Dashboard interativo com Plotly, tratamento de dados com Pandas e versionamento no GitHub.
 `Python` · `Jupyter Notebook` · `Plotly` · `Pandas`
