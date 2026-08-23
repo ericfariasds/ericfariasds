@@ -45,10 +45,6 @@ Análise exploratória de ~1.495 projetos ambientais do FNMA (1990–2024). Dash
 Sistema de biblioteca com triggers, functions e views em PostgreSQL. Foco em modelagem relacional e lógica avançada no banco.
 `PL/pgSQL` · `PostgreSQL`
 
-### ☁️ [weather-api](https://github.com/ericfariasds/weather-api)
-REST API para dados meteorológicos com histórico de consultas. Desenvolvida com Node.js, Express e PostgreSQL.
-`TypeScript` · `Node.js` · `Express` · `PostgreSQL`
-
 ---
 
 ## Atualmente estudando
