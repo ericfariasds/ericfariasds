@@ -33,20 +33,17 @@ Currently deepening my knowledge in data analysis, advanced SQL, and scalable sy
 
 ## Featured Projects
 
+### 👨‍💻 [portfolio](https://github.com/ericfariasds/portfolio)
+My personal portfolio developed to document my trajectory and centralize my data analysis projects. Responsive interface, dark mode and design focused on visual identity.
+`HTML` · `tailwindcss`
+
 ### 📊 [projetos-fnma](https://github.com/ericfariasds/projetos-fnma)
 Exploratory analysis of ~1,495 environmental projects from FNMA (1990–2024). Interactive dashboard with Plotly, data processing with Pandas, and version control on GitHub.
-
 `Python` · `Jupyter Notebook` · `Plotly` · `Pandas`
 
 ### 🗃️ [sistema-biblioteca-postgresql](https://github.com/ericfariasds/sistema-biblioteca-postgresql)
 Library management system with triggers, functions, and views in PostgreSQL. Focus on relational modeling and advanced database logic.
-
 `PL/pgSQL` · `PostgreSQL`
-
-### ☁️ [weather-api](https://github.com/ericfariasds/weather-api)
-REST API for weather data with query history. Built with Node.js, Express, and PostgreSQL.
-
-`TypeScript` · `Node.js` · `Express` · `PostgreSQL`
 
 ---
 
