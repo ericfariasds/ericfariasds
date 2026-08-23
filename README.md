@@ -38,7 +38,7 @@ Meu portfólio pessoal desenvolvido para documentar minha trajetória e centrali
 `HTML` · `tailwindcss`
 
 ### 📊 [projetos-fnma](https://github.com/ericfariasds/projetos-fnma)
-Análise exploratória de ~1.495 projetos ambientais do FNMA (1990–2024). Dashboard interativo com Plotly, tratamento de dados com Pandas e versionamento no GitHub.
+Análise exploratória de ~1.495 projetos ambientais do FNMA (1990-2024). Dashboard interativo com Plotly, tratamento de dados com Pandas e versionamento no GitHub.
 `Python` · `Jupyter Notebook` · `Plotly` · `Pandas`
 
 ### 🗃️ [sistema-biblioteca-postgresql](https://github.com/ericfariasds/sistema-biblioteca-postgresql)
